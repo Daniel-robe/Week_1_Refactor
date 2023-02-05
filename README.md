@@ -6,7 +6,7 @@ We were given a website with HTML and CSS files and tasked with updating both to
 
 ## Links
 
-Link to the deployed site - 
-Link to the repository - 
+Link to the deployed site - https://daniel-robe.github.io/Week_1_Refactor/
+Link to the repository - https://github.com/Daniel-robe/Week_1_Refactor
 
 ## Screenshots
